@@ -9,7 +9,6 @@ public class absen {
 	users = new String[3];
 	passwords = new String[3];
 
-        
         users[0] = "syaifudin";
 	passwords[0] = "syaifudin";
        
@@ -19,7 +18,6 @@ public class absen {
         user = akun.nextLine();
         System.out.println("masukkan Password: ");
         password = akun.nextLine();
-
 
 					
         if (users[i].equals(user) && passwords[i].equals(password)) {
