@@ -29,3 +29,8 @@ public class absen {
 				
     }
 }
+
+//ichsan
+//dony
+//anri
+//gabriel
